@@ -1,11 +1,31 @@
-- 👋 Hi, I’m @thanujapepakayala
-- 👀 I’m interested in creating beautiful,interesting and innovative webpages.
-- 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on different projects in making my resume worth and helping to create and invoke new webpages.
-- 📫 How to reach me:you can reach me on my instagram 
-- ⚡ Fun fact: Making webpages is like making tea.
+<h1 align="center">Hi 👋, I'm Thanuja Pepakayala</h1>
+<h3 align="center">Aspiring Java Developer | BTech CSE @ Mohan Babu University</h3>
 
-<!---
-thanujapepakayala/thanujapepakayala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🎓 **Education**  
+B.Tech in Computer Science & Engineering  
+**Mohan Babu University, Andhra Pradesh** (2022–2026)  
+CGPA: **9.39 (current)**
+
+---
+
+💡 **About Me**
+- 👩‍💻 I’m currently working as a **Java Developer Intern at CodSoft**
+- 💼 Previously interned at **BlueStock Fintech** as a Frontend Developer
+- 🌱 I'm strengthening my knowledge in **DSA**, **Java**, and **Web Development**
+- 🧠 I actively solve coding problems on **LeetCode**, **HackerRank**, and **CodeChef**
+- 🏆 Solved **100+ DSA problems** across platforms
+- 🌐 [Portfolio Website](https://github.com/thanujapepakayala/portfolio)
+
+---
+
+🛠️ **Tech Stack**
+
+```java
+Languages: Java, Python (basic), SQL (basic)
+Web Dev : HTML, CSS, JavaScript, Bootstrap
+Tools   : Git, VS Code, PowerPoint, Excel
+Concepts: OOP, DSA, Problem Solving
+---
+You can reach me out on my mail: thanujapepakayala@gmail.com
